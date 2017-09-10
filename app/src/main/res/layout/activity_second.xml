@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.superadmin1.secondapp.Principal">
+
+    <Button
+        android:id="@+id/Activity_main_two"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:text="@string/button_one"
+        android:textAllCaps="false"
+        android:background="@drawable/border_button_one"
+        android:textStyle="bold"
+        android:textSize="25dp"
+        android:padding="30dp"
+        />
+
+</LinearLayout>

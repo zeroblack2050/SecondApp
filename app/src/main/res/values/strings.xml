@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SecondApp</string>
+    <string name="button_one">Botón</string>
+    <string name="name">Name</string>
+    <string name="hint_name">hint_name</string>
+    <string-array name="animal">
+        <item>Leon</item>
+        <item>Burra</item>
+        <item>Tortuga</item>
+        <item>Tiburón</item>
+        <item>Osito</item>
+    </string-array>
+    <string name="usuario">"@Usuario"</string>
+</resources>
